@@ -1,0 +1,9 @@
+F:\PRACTICS\BankingAPP\BankingAPP\bin\Debug\BankingAPP.exe.config
+F:\PRACTICS\BankingAPP\BankingAPP\bin\Debug\BankingAPP.exe
+F:\PRACTICS\BankingAPP\BankingAPP\bin\Debug\BankingAPP.pdb
+F:\PRACTICS\BankingAPP\BankingAPP\obj\Debug\BankingAPP.csprojResolveAssemblyReference.cache
+F:\PRACTICS\BankingAPP\BankingAPP\obj\Debug\BankingAPP.BankAppUI.resources
+F:\PRACTICS\BankingAPP\BankingAPP\obj\Debug\BankingAPP.Properties.Resources.resources
+F:\PRACTICS\BankingAPP\BankingAPP\obj\Debug\BankingAPP.csproj.GenerateResource.Cache
+F:\PRACTICS\BankingAPP\BankingAPP\obj\Debug\BankingAPP.exe
+F:\PRACTICS\BankingAPP\BankingAPP\obj\Debug\BankingAPP.pdb
